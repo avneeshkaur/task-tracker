@@ -23,7 +23,7 @@ It allows users to add, edit, delete, and mark tasks as complete. Tasks can be f
 ## 🛠 Setup Instructions
 1. Clone the repository
    ```bash
-   git clone 
+   git clone https://github.com/avneeshkaur/task-tracker
    cd task-tracker
 Install dependencies
 
@@ -47,13 +47,14 @@ Netlify (for deployment)
 Vite 
 
 🔗 Live Demo
-👉 View Live Demo on Netlify
+👉 https://task-tracker-aap.netlify.app/
+
+github Link
+https://github.com/avneeshkaur/task-tracker
 
 🖼 Screenshots
-
-
-
-
-
+./public/Light Mode.png
+./public/Dark Mode.png
+ 
 
 ---
