@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Login from "./components/login";
+import Login from "./components/Login";
 import Dashboard from "./components/Dashboard";
 import "./App.css";
 
