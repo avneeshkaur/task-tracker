@@ -1,0 +1,18 @@
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Animation */
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-in;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Button Hover States (fallback for Tailwind classes) */
+button {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
